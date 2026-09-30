@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+.env
+
+data/
+
+outputs/custom_knn/*.npy
+
+.idea/
+.vscode/
+
+.DS_Store
